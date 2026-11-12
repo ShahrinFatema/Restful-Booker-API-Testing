@@ -12,7 +12,7 @@ This project focuses on testing the RESTful Booker API using Postman to verify e
 - Tested requests with invalid JSON payloads.
 - Validated authentication response messages and status codes.
 - Checked error handling for invalid and incomplete requests.
-- 
+
 ### 2. CRUD Operations & Authorization Testing
 - **Create (POST):** Created booking records and tested booking creation with expired and invalid authentication tokens.
 - **Read (GET):** Retrieved booking details using valid booking IDs and tested requests with non-existing booking IDs to validate error handling.
