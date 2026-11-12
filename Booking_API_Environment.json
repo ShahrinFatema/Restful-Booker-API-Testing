@@ -1,0 +1,64 @@
+{
+	"id": "d446b77f-9aba-416f-afb7-4a505245f498",
+	"name": "Booking API Environment",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "bookingId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "fname",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lname",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "totalprice",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "dpaid",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "bookingdates",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "additionalneeds",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-11-12T09:24:53.909Z",
+	"_postman_exported_using": "Postman/12.36.3"
+}
