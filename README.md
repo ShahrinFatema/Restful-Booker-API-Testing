@@ -2,6 +2,10 @@
 
 ## Project Overview
 This project focuses on testing the RESTful Booker API using Postman to verify endpoint functionality, validate API responses, and ensure expected behavior across different HTTP methods. The testing covered authentication, CRUD operations, response validation, and automated assertions using JavaScript.
+### Newman Test Execution Report
+The API test collection was executed using Newman, and an HTML report was generated to visualize the test execution results.
+
+**[View Newman HTML Test Report](YOUR-GITHUB-PAGES-REPORT-URL)**
 
 ## Testing Scope
 
@@ -39,6 +43,7 @@ This project focuses on testing the RESTful Booker API using Postman to verify e
 | Postman | API request execution and validation |
 | JavaScript | Writing test scripts and assertions |
 | REST API | HTTP methods and endpoint testing |
+| Newman | API request execution and generate html report |
 
 ## Key Testing Activities
 - Executed API requests using different HTTP methods.
@@ -52,7 +57,7 @@ This project focuses on testing the RESTful Booker API using Postman to verify e
 - Postman Collection (JSON)
 - API Test Scripts and Assertions
 - Environment Configuration (sanitized)
-- API Testing Evidence and Screenshots
+- Newman Report (HTML)
 
 ## Project Outcome
 Developed practical experience in REST API testing, authentication, CRUD operations, response validation, JavaScript assertions, and dynamic data handling using Postman.
