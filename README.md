@@ -5,7 +5,7 @@ This project focuses on testing the RESTful Booker API using Postman to verify e
 ### Newman Test Execution Report
 The API test collection was executed using Newman, and an HTML report was generated to visualize the test execution results.
 
-[View Newman HTML Dashboard](https://shahrinfatema.github.io/Restful-Booker-API-Testing/newman-report.html)
+[View Newman HTML Dashboard](https://shahrinfatema.github.io/Restful-Booker-API-Testing/Newman-Report.html)
 
 ## Testing Scope
 
